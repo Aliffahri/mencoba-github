@@ -1,78 +1,12 @@
-# mencoba-github
-sarana percobaan teman"
-
-package database.Entity;
-import java.io.Serializable;
-
-/**
- *
- * 
- */
-
-public class Order_Pembelian1 implements Serializable {    
-    private int Id_Bahan;
-    private String Nama_Bahan;
-    private int Jumlah;
-    private String Id_Supplier;
-    private String Nama_Supplier;
-    private String Nama_Satuan;
-    private String Id_satuan;
-    
-    
-
-    public int getId_Bahan() {
-        return Id_Bahan;
-    }
-
-    public void setId_Bahan(int Id_Bahan) {
-        this.Id_Bahan = Id_Bahan;
-    }
-
-    public String getNama_Bahan() {
-        return Nama_Bahan;
-    }
-
-    public void setNama_Bahan(String nama) {
-        this.Nama_Bahan =nama;
-    }
-    
-    public int getJumlah() {
-        return Jumlah;
-    }
-
-    public void setJumlah(int Jumlah) {
-        this.Jumlah = Jumlah;
-    }
-    
-    public String getNama_Supplier() {
-        return Nama_Supplier;
-    }
-
-    public void setNama_Supplier(String nama) {
-        this.Nama_Supplier =nama;
-    }
-    
-    public String getId_supplier() {
-        return Id_Supplier;
-    }
-
-    public void setId_Supplier(String nama) {
-        this.Id_Supplier =nama;
-    }
-    
-    public String getNama_Satuan() {
-        return Nama_Satuan;
-    }
-
-    public void setNama_Satuan(String nama) {
-        this.Nama_Satuan =nama;
-    }
-    
-    public String getId_satuan() {
-        return Id_satuan;
-    }
-
-    public void setId_Satuan(String nama) {
-        this.Id_satuan =nama;
-    }
-}
+MEncoba
+Mella Pratamy           080916061
+Yuliasti Alloysa Br Tarigan	081211631012
+Aliffahri Saputra     081211631013
+Wida Mariatul Kiptiyah     081211631060
+Mega Merry I      081211631062
+Melinda Andriyanti     081211632008
+M. Indyka T.S.    081211632011
+Jessica     081211632015
+Triyah Fatmawati     081211632016
+Alwan Ikdamawan     081211633002
+Kurnia Wayu Darmawan     081211633022
