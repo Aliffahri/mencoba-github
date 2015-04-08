@@ -1,0 +1,10 @@
+feature: staf klinik dapat melakukan registrasi pegawai klinik
+
+skenario: memasukkan data identitas dokter dengan benar dan legkap
+
+given staf klinik berada pada halaman registrasi pegawai
+when staf klinik menu "dokter"
+then staf klinik berada pada halaman form registrasi dokter
+when staf klinik mengisi form input registrasi dokter dengan lengkap dan benar
+and menekan tombol "SIMPAN"
+then staf klinik menerima pesan bahwa data telah berhasil tersimpan dan staf klinik dapat melihat data yang baru saja dimasukkan
